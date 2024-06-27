@@ -1,4 +1,4 @@
-import testmonialimg from "../../public/testmonialimg1.png";
+import testmonialimg from "../../public/testmonialimg2.png";
 import testmonialimgrating from "../../public/testmonialimg3.png";
 
 export const TestimoialsData = [
