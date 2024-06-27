@@ -1,5 +1,4 @@
 import testmonialimg from "../../public/testmonialimg1.png";
-import testmonialimg1 from "../../public/testmonialimg2.png";
 import testmonialimgrating from "../../public/testmonialimg3.png";
 
 export const TestimoialsData = [
@@ -14,7 +13,7 @@ export const TestimoialsData = [
   },
   {
     id: 2,
-    img: testmonialimg1,
+    img: testmonialimg,
     title: "William Hook",
     profetion: "App Designer",
     rImagr: testmonialimgrating,
@@ -23,7 +22,7 @@ export const TestimoialsData = [
   },
   {
     id: 3,
-    img: testmonialimg1,
+    img: testmonialimg,
     title: "William Hook",
     profetion: "App Designer",
     rImagr: testmonialimgrating,
@@ -32,7 +31,7 @@ export const TestimoialsData = [
   },
   {
     id: 4,
-    img: testmonialimg1,
+    img: testmonialimg,
     title: "William Hook",
     profetion: "App Designer",
     rImagr: testmonialimgrating,
